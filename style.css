@@ -1,0 +1,20 @@
+head {font-family: Arial;
+}
+
+.centered {
+	text-align: center;
+}
+
+#p1 {
+	color: darkgreen;
+}
+
+#div1 {
+  border-style: solid;
+  border-color: black;
+}
+
+#div2 {
+  border-style: solid;
+  border-color: black;
+}
